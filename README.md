@@ -1,6 +1,3 @@
-Yes, exactly — you want the **entire README as one clean block that you can copy directly into `README.md`**. Here it is:
-
-markdown
 # CyberSploit 2 — CTF Walkthrough
 
 A complete hands-on penetration testing walkthrough of the **CyberSploit 2** vulnerable CTF machine, covering reconnaissance, service enumeration, web enumeration, credential discovery, SSH access, local enumeration, Docker-based privilege escalation, and root-level compromise.
@@ -472,3 +469,18 @@ Do not use these techniques against systems without explicit authorization.
 # 👤 Author
 
 **Alen**
+
+
+---
+
+## Portfolio navigation
+
+This repository is part of my hands-on cybersecurity learning portfolio by **Alen Sales K S**. I document lab work to make the methodology, evidence, limitations, and lessons learned easier to review.
+
+- [Cybersploit 1 CTF Walkthrough](https://github.com/zales2004/cybersploit-1-ctf-walkthrough)
+- [Metasploitable 2 Lab](https://github.com/zales2004/metasploitable-2-ctf-walkthrough)
+- [Sunset: Noontide](https://github.com/zales2004/sunset-noontide-pentesting)
+
+## Scope and responsible use
+
+All security testing described here is for authorized training environments, intentionally vulnerable targets, or systems I own or have permission to assess. Findings should be interpreted in the context of the documented lab and supporting evidence; they should not be treated as proof of compromise on unrelated real-world systems.
